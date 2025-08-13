@@ -1,10 +1,17 @@
-# 🌐 Site RCG — Container Docker
+# 🌐 Site RCG — Container Docker + NGINX
 
 Este repositório contém um site estático (HTML, CSS e JavaScript) pronto para ser executado em um container **NGINX** usando **Docker**.
-Trata-se do primeiro site institucional do Rotary Club da Guarda, ao qual sou associado, e do quel recebi a honrosa incumbência de criar.
+
+Trata-se do primeiro site institucional do Rotary Club da Guarda, ao qual sou associado, e do qual recebi a honrosa incumbência de criar.
+***
+<br>
+
 
 ## 📦 Imagem no Docker Hub
 🔗 [deldotore/sitercg:1.0](https://hub.docker.com/r/deldotore/sitercg)
+<br>
+<br>
+
 
 ## 🚀 Como executar
 
@@ -29,6 +36,8 @@ docker run -d -p 8090:80 deldotore/sitercg:1.0
 ```
 
 ---
+<br>
+
 
 ## 📂 Estrutura do projeto
 ```
@@ -42,6 +51,7 @@ public/
 - **script.js** → Funcionalidades e interatividade.
 
 ---
+<br>
 
 ## 🛠️ Tecnologias usadas
 - **HTML5**
@@ -51,9 +61,12 @@ public/
 - **Docker**
 
 ---
+<br>
 
 ## 🖼️ Captura de tela
-*(Adicione aqui uma screenshot do seu site rodando localmente)*
+
+![Exemplo](assets/print_rcg.png)
+
 
 ---
 
