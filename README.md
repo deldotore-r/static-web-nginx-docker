@@ -42,13 +42,19 @@ docker run -d -p 8090:80 deldotore/sitercg:1.0
 ## 📂 Estrutura do projeto
 ```
 public/
+|   imagens/
 │   index.html
 │   style.css
 │   script.js
+docker-compose.yaml
+Dockerfile
 ```
-- **index.html** → Página principal.
+- **imagens** → Pasta das imagens do site.
+- **index.html** → Página principal (demais páginas omitidas).
 - **style.css** → Estilos visuais.
 - **script.js** → Funcionalidades e interatividade.
+- **docker-compose.yaml** → Arquivo de configuração do container.
+- **Dockerfile** → Arquivo de dconfiguração da imagem.
 
 ---
 <br>
