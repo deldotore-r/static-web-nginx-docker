@@ -77,7 +77,7 @@ Dockerfile
 ---
 
 ## ✨ Autor
-**Reinaldo C. G.**  
+**Reinaldo Del Dotore**  
 [Perfil no Docker Hub](https://hub.docker.com/u/deldotore)
 
 ---
